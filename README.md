@@ -6,3 +6,8 @@ Examples and Exercises from "Essential Math for Data Science" by Thomas Nield. T
 ## Links
 [Amazon](https://a.co/d/a7kxaKL) <br>
 [O'Reilly](https://www.oreilly.com/library/view/essential-math-for/9781098102920/)
+
+## Cover
+<p>
+  <a><img src="https://learning.oreilly.com/library/cover/9781098102920/250w/"/></a>
+</p>
